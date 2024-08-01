@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @simranjeetkaur249
+- 
 -💻l am computer science student 
 - 🌱 I’m currently learning coding
-- 🏫Guru Nanak Dev Engineering College 
+- 🏫Guru Nanak Dev Engineering College
+- 
 -👍l am learning new things day by day
 - 😄 
 - ⚡
